@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://rvila08.github.io/csb-6v7btq/static/css/main.b6ecd0a7.chunk.css",
+    "main.js": "https://rvila08.github.io/csb-6v7btq/static/js/main.13f6c74d.chunk.js",
+    "main.js.map": "https://rvila08.github.io/csb-6v7btq/static/js/main.13f6c74d.chunk.js.map",
+    "runtime-main.js": "https://rvila08.github.io/csb-6v7btq/static/js/runtime-main.dd6ff27b.js",
+    "runtime-main.js.map": "https://rvila08.github.io/csb-6v7btq/static/js/runtime-main.dd6ff27b.js.map",
+    "static/js/2.e9784446.chunk.js": "https://rvila08.github.io/csb-6v7btq/static/js/2.e9784446.chunk.js",
+    "static/js/2.e9784446.chunk.js.map": "https://rvila08.github.io/csb-6v7btq/static/js/2.e9784446.chunk.js.map",
+    "index.html": "https://rvila08.github.io/csb-6v7btq/index.html",
+    "static/css/main.b6ecd0a7.chunk.css.map": "https://rvila08.github.io/csb-6v7btq/static/css/main.b6ecd0a7.chunk.css.map",
+    "static/js/2.e9784446.chunk.js.LICENSE.txt": "https://rvila08.github.io/csb-6v7btq/static/js/2.e9784446.chunk.js.LICENSE.txt",
+    "static/media/cloudupload.4f59e6f6.png": "https://rvila08.github.io/csb-6v7btq/static/media/cloudupload.4f59e6f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6ff27b.js",
+    "static/js/2.e9784446.chunk.js",
+    "static/css/main.b6ecd0a7.chunk.css",
+    "static/js/main.13f6c74d.chunk.js"
+  ]
+}
